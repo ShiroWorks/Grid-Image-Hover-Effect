@@ -2,6 +2,8 @@
 
 A hover effect for a background grid of images.
 
+[Live version](https://grid-image-hover-effect.netlify.app/)
+
 ## Installation
 
 Install dependencies:
